@@ -4,7 +4,10 @@
 
 ServisPro is an auto-service booking and management application. Customers manage vehicles and book appointments. Workshops manage calendars and service work. Administrators review service providers and maintain the catalog.
 
-![ServisPro architecture from customer, workshop and administrator workflows to a React client, an ASP.NET Core API and SQL Server](assets/architecture.svg)
+<picture>
+  <source media="(max-width: 560px)" srcset="assets/architecture-mobile.svg">
+  <img src="assets/architecture.svg" width="920" alt="ServisPro architecture from customer, workshop and administrator workflows to a React client, an ASP.NET Core API and SQL Server">
+</picture>
 
 **React · ASP.NET Core · Entity Framework Core · SQL Server**
 
