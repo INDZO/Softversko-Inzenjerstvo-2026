@@ -1,6 +1,6 @@
 # ServisPro
 
-**Full-stack engineering documentation · Independent university project**
+**Full-stack engineering documentation · Independent Software Engineering project**
 
 ServisPro is an auto-service booking and management application. Customers manage vehicles and book appointments. Workshops manage calendars and service work. Administrators review service providers and maintain the catalog.
 
@@ -14,6 +14,8 @@ ServisPro is an auto-service booking and management application. Customers manag
 [Engineering overview](docs/engineering-overview.md) · [Requirements](PSD_AV04_Specifikacija_zahteva.doc) · [Architecture specification](PSD_AV05_Detaljni_arhitekturni_projekat_v1.0.doc)
 
 [Public React and ASP.NET Core source ↗](https://github.com/INDZO/ServisPro-Source) · This repository contains the companion engineering documentation.
+
+[Live booking demo ↗](https://indzo-servispro-demo.vercel.app/) · The original React scheduler can be tried with fictional workshops and appointments. The demo does not use the ASP.NET Core API or SQL Server.
 
 ## Three workflows
 
