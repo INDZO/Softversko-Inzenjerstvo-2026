@@ -13,6 +13,8 @@ ServisPro is an auto-service booking and management application. Customers manag
 
 [Engineering overview](docs/engineering-overview.md) · [Requirements](PSD_AV04_Specifikacija_zahteva.doc) · [Architecture specification](PSD_AV05_Detaljni_arhitekturni_projekat_v1.0.doc)
 
+[Public React and ASP.NET Core source ↗](https://github.com/INDZO/ServisPro-Source) · This repository contains the companion engineering documentation.
+
 ## Three workflows
 
 | Role | Example workflow |
